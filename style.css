@@ -1,0 +1,39 @@
+body {
+    background-color:#e58cf5;
+}
+
+#name1 {
+    background-color:blueviolet;
+    padding-left:250px;
+    padding-right:250px;
+    font-size:20px;
+    color:white;
+}
+
+#name2 {
+    background-color:blueviolet;
+    padding-left:250px;
+    padding-right:250px;
+    font-size:20px;
+    color:white;
+}
+
+#name3 {
+    background-color:blueviolet;
+    padding-left:250px;
+    padding-right:250px;
+    font-size:20px;
+    color:white;
+}
+
+#name4 {
+    background-color:blueviolet;
+    padding-left:250px;
+    padding-right:250px;
+    font-size:20px;
+    color:white;
+}
+
+.heading {
+    font-size:25px;
+}
